@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/polkadot-cloud/polkadot-developer-console/compare/v0.9.1...v0.10.0) (2024-10-04)
+
+
+### Features
+
+* Test CI ([#236](https://github.com/polkadot-cloud/polkadot-developer-console/issues/236)) ([61500ff](https://github.com/polkadot-cloud/polkadot-developer-console/commit/61500ff6d4ff1993b45063dc123484be753d3486))
+
 ## 0.9.1 (2024-10-04)
 
 
